@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
   
   if phrase == upphrase
     
-    return ""
+    return "NO, NOT SINCE 1938!"
     
   else
     
