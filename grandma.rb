@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
   
   if uppphrase != phrase
     
-    
+    return "HUH?! SPEAK UP, SONNY!"
     
   end
   
