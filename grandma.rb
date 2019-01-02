@@ -4,4 +4,10 @@ def speak_to_grandma(phrase)
   
   upphrase = phrase.upcase
   
+  if uppphrase != phrase
+    
+    
+    
+  end
+  
 end
